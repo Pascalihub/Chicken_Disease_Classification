@@ -70,3 +70,7 @@ Source-Age: 0
 [2023-07-27 01:18:30,141: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
 [2023-07-27 01:18:30,142: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
 [2023-07-27 01:18:30,144: INFO: common: created directory at: artifacts\training]
+[2023-07-27 17:54:35,587: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 17:54:35,665: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 17:54:35,674: INFO: common: created directory at: artifacts]
+[2023-07-27 17:55:22,953: INFO: common: json file saved at: scores.json]
