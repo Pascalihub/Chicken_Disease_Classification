@@ -1,0 +1,72 @@
+[2023-07-27 00:34:49,904: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 00:34:49,909: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 00:34:49,911: INFO: common: created directory at: artifacts]
+[2023-07-27 00:34:49,914: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-27 00:35:11,181: INFO: 947144846: artifacts/data_ingestion/data.zip downloaded with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FD58:CC0E:6D366C:71EB4B:64C21E1B
+Accept-Ranges: bytes
+Date: Thu, 27 Jul 2023 07:34:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams21078-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1690443292.971310,VS0,VE756
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4ccbf80b9209918d599c5b6cf2f52571d7c767c5
+Expires: Thu, 27 Jul 2023 07:39:52 GMT
+Source-Age: 0
+
+]
+[2023-07-27 00:42:27,797: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 00:42:27,800: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 00:42:27,802: INFO: common: created directory at: artifacts]
+[2023-07-27 00:42:27,803: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-27 00:42:29,324: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-27 00:44:46,601: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 00:44:46,608: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 00:44:46,610: INFO: common: created directory at: artifacts]
+[2023-07-27 00:44:46,705: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 00:44:46,708: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 00:45:52,687: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 00:45:52,691: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 00:45:52,693: INFO: common: created directory at: artifacts]
+[2023-07-27 00:45:52,694: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 00:45:52,695: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 01:06:01,811: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 01:06:01,816: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 01:06:01,819: INFO: common: created directory at: artifacts]
+[2023-07-27 01:06:01,821: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 01:06:01,824: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 01:11:56,922: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 01:11:56,925: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 01:11:56,927: INFO: common: created directory at: artifacts]
+[2023-07-27 01:11:56,929: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 01:11:56,930: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 01:12:33,184: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 01:12:33,188: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 01:12:33,189: INFO: common: created directory at: artifacts]
+[2023-07-27 01:12:33,191: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 01:12:33,192: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 01:16:35,497: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 01:16:35,500: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 01:16:35,502: INFO: common: created directory at: artifacts]
+[2023-07-27 01:16:35,503: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 01:16:35,504: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 01:18:30,135: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-27 01:18:30,138: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-27 01:18:30,139: INFO: common: created directory at: artifacts]
+[2023-07-27 01:18:30,141: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-27 01:18:30,142: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-27 01:18:30,144: INFO: common: created directory at: artifacts\training]
