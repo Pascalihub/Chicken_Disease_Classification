@@ -74,3 +74,548 @@ Source-Age: 0
 [2023-07-27 17:54:35,665: INFO: common: yaml file: params.yaml loaded successfully]
 [2023-07-27 17:54:35,674: INFO: common: created directory at: artifacts]
 [2023-07-27 17:55:22,953: INFO: common: json file saved at: scores.json]
+[2023-07-28 09:25:57,583: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-28 09:25:57,642: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-28 09:25:57,728: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-28 09:25:57,728: INFO: common: created directory at: artifacts]
+[2023-07-28 09:25:57,729: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-28 09:25:57,729: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-28 09:25:58,682: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-28 21:44:03,761: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-28 21:44:03,804: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-28 21:44:03,865: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-28 21:44:03,866: INFO: common: created directory at: artifacts]
+[2023-07-28 21:44:03,867: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-28 21:44:03,868: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-28 21:44:04,740: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-28 21:46:56,960: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-28 21:46:56,963: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-28 21:46:56,965: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-28 21:46:56,966: INFO: common: created directory at: artifacts]
+[2023-07-28 21:46:56,966: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-28 21:46:56,967: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-28 21:46:57,301: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-28 21:46:57,301: INFO: main: >>>>> stage Prepare Base Model stage started <<<<<]
+[2023-07-28 21:46:57,307: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-28 21:46:57,310: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-28 21:46:57,311: INFO: common: created directory at: artifacts]
+[2023-07-28 21:46:57,312: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-28 21:47:02,467: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-28 21:47:04,534: INFO: main: >>>>> stage Prepare Base Model stage completed <<<<< 
+
+x===============x]
+[2023-07-29 06:05:29,008: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-29 06:05:29,033: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 06:05:29,115: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 06:05:29,116: INFO: common: created directory at: artifacts]
+[2023-07-29 06:05:29,117: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-29 06:05:29,132: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-29 06:05:29,711: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-29 06:05:29,712: INFO: main: >>>>> stage Prepare Base Model stage started <<<<<]
+[2023-07-29 06:05:29,716: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 06:05:29,718: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 06:05:29,719: INFO: common: created directory at: artifacts]
+[2023-07-29 06:05:29,720: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-29 06:05:34,497: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-29 06:05:35,798: INFO: main: >>>>> stage Prepare Base Model stage completed <<<<< 
+
+x===============x]
+[2023-07-29 06:10:26,408: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-29 06:10:26,413: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 06:10:26,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 06:10:26,416: INFO: common: created directory at: artifacts]
+[2023-07-29 06:10:26,417: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-29 06:10:26,418: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-29 06:10:26,793: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-29 06:10:26,793: INFO: main: >>>>> stage Prepare Base Model stage started <<<<<]
+[2023-07-29 06:10:26,798: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 06:10:26,801: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 06:10:26,802: INFO: common: created directory at: artifacts]
+[2023-07-29 06:10:26,802: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-29 06:10:27,484: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-29 06:10:30,765: INFO: main: >>>>> stage Prepare Base Model stage completed <<<<< 
+
+x===============x]
+[2023-07-29 06:10:30,766: INFO: main: >>>>> stage Prepare Callbacks stage started <<<<<]
+[2023-07-29 06:10:30,770: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 06:10:30,773: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 06:10:30,774: INFO: common: created directory at: artifacts]
+[2023-07-29 06:10:30,775: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-29 06:10:30,775: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-29 06:10:31,000: INFO: main: >>>>> stage Prepare Callbacks stage completed <<<<< 
+
+x===============x]
+[2023-07-29 16:32:26,174: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-29 16:32:26,203: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 16:32:26,244: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 16:32:26,245: INFO: common: created directory at: artifacts]
+[2023-07-29 16:32:26,245: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-29 16:32:26,258: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-29 16:32:26,879: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-29 16:32:26,881: INFO: main: >>>>> stage Prepare Base Model stage started <<<<<]
+[2023-07-29 16:32:26,889: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 16:32:26,895: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 16:32:26,896: INFO: common: created directory at: artifacts]
+[2023-07-29 16:32:26,897: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-29 16:32:31,254: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-29 16:32:34,357: INFO: main: >>>>> stage Prepare Base Model stage completed <<<<< 
+
+x===============x]
+[2023-07-29 16:32:34,358: INFO: main: >>>>> stage Prepare Callbacks stage started <<<<<]
+[2023-07-29 16:32:34,364: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 16:32:34,368: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 16:32:34,369: INFO: common: created directory at: artifacts]
+[2023-07-29 16:32:34,370: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-29 16:32:34,370: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-29 16:32:34,420: INFO: main: >>>>> stage Prepare Callbacks stage completed <<<<< 
+
+x===============x]
+[2023-07-29 16:32:34,421: INFO: main: >>>>> stage Training stage started <<<<<]
+[2023-07-29 16:32:34,431: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 16:32:34,435: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 16:32:34,436: INFO: common: created directory at: artifacts]
+[2023-07-29 16:32:34,437: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-29 16:32:34,438: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-29 16:32:34,439: INFO: common: created directory at: artifacts\training]
+[2023-07-29 16:40:00,816: INFO: main: >>>>> stage Training stage completed <<<<< 
+
+x===============x]
+[2023-07-29 17:44:06,862: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-07-29 17:44:06,885: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 17:44:06,903: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 17:44:06,904: INFO: common: created directory at: artifacts]
+[2023-07-29 17:44:06,904: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-29 17:44:06,905: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-07-29 17:44:07,466: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-07-29 17:44:07,468: INFO: main: >>>>> stage Prepare Base Model stage started <<<<<]
+[2023-07-29 17:44:07,480: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 17:44:07,487: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 17:44:07,490: INFO: common: created directory at: artifacts]
+[2023-07-29 17:44:07,493: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-29 17:44:08,504: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-29 17:44:12,949: INFO: main: >>>>> stage Prepare Base Model stage completed <<<<< 
+
+x===============x]
+[2023-07-29 17:44:12,950: INFO: main: >>>>> stage Prepare Callbacks stage started <<<<<]
+[2023-07-29 17:44:12,954: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 17:44:12,957: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 17:44:12,958: INFO: common: created directory at: artifacts]
+[2023-07-29 17:44:12,959: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-29 17:44:12,960: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-29 17:44:12,962: INFO: main: >>>>> stage Prepare Callbacks stage completed <<<<< 
+
+x===============x]
+[2023-07-29 17:44:12,963: INFO: main: >>>>> stage Training stage started <<<<<]
+[2023-07-29 17:44:12,973: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 17:44:12,978: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 17:44:12,979: INFO: common: created directory at: artifacts]
+[2023-07-29 17:44:12,980: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-29 17:44:12,982: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-29 17:44:12,984: INFO: common: created directory at: artifacts\training]
+[2023-07-29 17:51:50,370: INFO: main: >>>>> stage Training stage completed <<<<< 
+
+x===============x]
+[2023-07-29 17:51:50,371: INFO: main: >>>>> stage Evaluation stage started <<<<<]
+[2023-07-29 17:51:50,379: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-29 17:51:50,384: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-29 17:51:50,385: INFO: common: created directory at: artifacts]
+[2023-07-29 17:52:31,759: INFO: common: json file saved at: scores.json]
+[2023-07-29 17:52:31,761: INFO: main: >>>>> stage Evaluation stage completed <<<<< 
+
+x===============x]
+[2023-08-06 00:23:22,416: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-08-06 00:23:22,427: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 00:23:22,507: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 00:23:22,508: INFO: common: created directory at: artifacts]
+[2023-08-06 00:23:22,508: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-06 00:23:22,522: ERROR: main: <urlopen error [Errno 11001] getaddrinfo failed>]
+Traceback (most recent call last):
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1317, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1276, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1225, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1004, in _send_output
+    self.send(msg)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 944, in send
+    self.connect()
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1392, in connect
+    super().connect()
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 915, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\pascal\chicken_disease_classification\src\chickenclassifier\pipeline\st_01_data_ingestion_pipeline.py", line 18, in main
+    data_ingestion.download_file()
+  File "C:\Users\PASCAL\Chicken_Disease_Classification\src\chickenclassifier\components\data_ingestion.py", line 20, in download_file
+    filename, headers = request.urlretrieve(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 247, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 525, in open
+    response = self._open(req, data)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 502, in _call_chain
+    result = func(*args)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1360, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+[2023-08-06 00:24:14,698: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-08-06 00:24:14,705: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 00:24:14,708: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 00:24:14,709: INFO: common: created directory at: artifacts]
+[2023-08-06 00:24:14,710: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-06 03:44:11,873: ERROR: main: [WinError 10053] An established connection was aborted by the software in your host machine]
+Traceback (most recent call last):
+  File "main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\pascal\chicken_disease_classification\src\chickenclassifier\pipeline\st_01_data_ingestion_pipeline.py", line 18, in main
+    data_ingestion.download_file()
+  File "C:\Users\PASCAL\Chicken_Disease_Classification\src\chickenclassifier\components\data_ingestion.py", line 20, in download_file
+    filename, headers = request.urlretrieve(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 276, in urlretrieve
+    block = fp.read(bs)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 454, in read
+    n = self.readinto(b)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 498, in readinto
+    n = self.fp.readinto(b)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+[2023-08-06 17:42:35,694: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2023-08-06 17:42:35,708: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 17:42:35,785: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 17:42:35,786: INFO: common: created directory at: artifacts]
+[2023-08-06 17:42:35,787: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-06 17:42:50,090: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9E9A:13BE4:1761544:185D832:64D03DFC
+Accept-Ranges: bytes
+Date: Mon, 07 Aug 2023 00:42:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams21079-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1691368957.217031,VS0,VE432
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b5f931671ca96c467d10628bc1445698caae158d
+Expires: Mon, 07 Aug 2023 00:47:37 GMT
+Source-Age: 0
+
+]
+[2023-08-06 17:42:50,662: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x===============x]
+[2023-08-06 17:42:50,663: INFO: main: >>>>> stage Prepare Base Model stage started <<<<<]
+[2023-08-06 17:42:50,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 17:42:50,675: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 17:42:50,677: INFO: common: created directory at: artifacts]
+[2023-08-06 17:42:50,678: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-08-06 17:42:54,421: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-08-06 17:42:54,873: INFO: main: >>>>> stage Prepare Base Model stage completed <<<<< 
+
+x===============x]
+[2023-08-06 17:42:54,873: INFO: main: >>>>> stage Prepare Callbacks stage started <<<<<]
+[2023-08-06 17:42:54,877: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 17:42:54,879: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 17:42:54,879: INFO: common: created directory at: artifacts]
+[2023-08-06 17:42:54,880: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-08-06 17:42:54,881: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-08-06 17:42:54,897: INFO: main: >>>>> stage Prepare Callbacks stage completed <<<<< 
+
+x===============x]
+[2023-08-06 17:42:54,898: INFO: main: >>>>> stage Training stage started <<<<<]
+[2023-08-06 17:42:54,902: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 17:42:54,906: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 17:42:54,907: INFO: common: created directory at: artifacts]
+[2023-08-06 17:42:54,908: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-08-06 17:42:54,909: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-08-06 17:42:54,910: INFO: common: created directory at: artifacts\training]
+[2023-08-06 17:48:13,335: INFO: main: >>>>> stage Training stage completed <<<<< 
+
+x===============x]
+[2023-08-06 17:48:13,336: INFO: main: >>>>> stage Evaluation stage started <<<<<]
+[2023-08-06 17:48:13,341: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-06 17:48:13,344: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-06 17:48:13,345: INFO: common: created directory at: artifacts]
+[2023-08-06 17:48:46,747: INFO: common: json file saved at: scores.json]
+[2023-08-06 17:48:46,748: INFO: main: >>>>> stage Evaluation stage completed <<<<< 
+
+x===============x]
+[2023-09-16 06:20:29,230: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 06:20:29,241: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 06:20:29,321: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 06:20:29,322: INFO: common: created directory at: artifacts]
+[2023-09-16 06:20:29,323: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 06:20:29,537: ERROR: main: <urlopen error [Errno 11001] getaddrinfo failed>]
+Traceback (most recent call last):
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1317, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1276, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1225, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1004, in _send_output
+    self.send(msg)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 944, in send
+    self.connect()
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1392, in connect
+    super().connect()
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 915, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\pascal\chicken_disease_classification\src\chickenclassifier\pipeline\st_01_data_ingestion_pipeline.py", line 18, in main
+    data_ingestion.download_file()
+  File "c:\users\pascal\chicken_disease_classification\src\chickenclassifier\components\data_ingestion.py", line 20, in download_file
+    filename, headers = request.urlretrieve(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 247, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 525, in open
+    response = self._open(req, data)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 502, in _call_chain
+    result = func(*args)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1360, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+[2023-09-16 15:30:07,976: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 15:30:08,021: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 15:30:08,106: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 15:30:08,136: INFO: common: created directory at: artifacts]
+[2023-09-16 15:30:08,137: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 15:30:20,413: ERROR: main: <urlopen error [Errno 11001] getaddrinfo failed>]
+Traceback (most recent call last):
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1317, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1276, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1225, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1004, in _send_output
+    self.send(msg)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 944, in send
+    self.connect()
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 1392, in connect
+    super().connect()
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\http\client.py", line 915, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\pascal\chicken_disease_classification\src\chickenclassifier\pipeline\st_01_data_ingestion_pipeline.py", line 18, in main
+    data_ingestion.download_file()
+  File "c:\users\pascal\chicken_disease_classification\src\chickenclassifier\components\data_ingestion.py", line 20, in download_file
+    filename, headers = request.urlretrieve(
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 247, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 525, in open
+    response = self._open(req, data)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 502, in _call_chain
+    result = func(*args)
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1360, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PASCAL\anaconda3\envs\chicken\lib\urllib\request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+[2023-09-16 15:32:24,626: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 15:32:24,630: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 15:32:24,632: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 15:32:24,633: INFO: common: created directory at: artifacts]
+[2023-09-16 15:32:24,633: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 15:33:03,466: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 995C:0DF7:24D3DFF:2667A70:65062CF1
+Accept-Ranges: bytes
+Date: Sat, 16 Sep 2023 22:32:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams21054-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1694903543.025364,VS0,VE644
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7fc48dac81c476eeb4e83c9f1113a1c78670cdfe
+Expires: Sat, 16 Sep 2023 22:37:23 GMT
+Source-Age: 0
+
+]
+[2023-09-16 15:33:04,066: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<< 
+
+x===============x]
+[2023-09-16 15:33:04,067: INFO: main: >>>>> stage Prepare Base Model started <<<<<]
+[2023-09-16 15:33:04,076: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 15:33:04,080: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 15:33:04,081: INFO: common: created directory at: artifacts]
+[2023-09-16 15:33:04,082: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-09-16 15:33:22,521: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-09-16 15:33:23,496: INFO: main: >>>>> stage Prepare Base Model completed <<<<< 
+
+x===============x]
+[2023-09-16 15:33:23,497: INFO: main: *******************]
+[2023-09-16 15:33:23,498: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-09-16 15:33:23,501: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 15:33:23,504: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 15:33:23,505: INFO: common: created directory at: artifacts]
+[2023-09-16 15:33:23,507: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-09-16 15:33:23,508: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-09-16 15:33:23,519: INFO: common: created directory at: artifacts\training]
+[2023-09-16 15:39:37,037: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-09-16 15:39:37,039: INFO: main: *******************]
+[2023-09-16 15:39:37,040: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-09-16 15:39:37,072: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 15:39:37,095: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 15:39:37,097: INFO: common: created directory at: artifacts]
+[2023-09-16 15:40:15,569: INFO: common: json file saved at: scores.json]
+[2023-09-16 15:40:15,571: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-09-16 16:05:44,438: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 16:05:44,449: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 16:05:44,452: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 16:05:44,453: INFO: common: created directory at: artifacts]
+[2023-09-16 16:05:44,453: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 16:06:02,011: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 995C:0DF7:24D3DFF:2667A70:65062CF1
+Accept-Ranges: bytes
+Date: Sat, 16 Sep 2023 23:05:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams21078-AMS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1694905541.232881,VS0,VE168
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c8ae36806df2859b5b4ac2699a63961724c1e475
+Expires: Sat, 16 Sep 2023 23:10:41 GMT
+Source-Age: 0
+
+]
+[2023-09-16 16:06:02,737: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage completed <<<<< 
+
+x===============x]
+[2023-09-16 16:09:38,080: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 16:09:38,085: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 16:09:38,091: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 16:09:38,092: INFO: common: created directory at: artifacts]
+[2023-09-16 16:09:38,094: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 16:09:38,095: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-09-16 16:09:38,664: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage completed <<<<< 
+
+x===============x]
+[2023-09-16 16:10:42,446: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 16:10:42,450: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 16:10:42,452: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 16:10:42,453: INFO: common: created directory at: artifacts]
+[2023-09-16 16:10:42,454: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 16:10:42,455: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-09-16 16:10:42,976: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage completed <<<<< 
+
+x===============x]
+[2023-09-16 16:13:05,508: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage started <<<<<]
+[2023-09-16 16:13:05,513: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-16 16:13:05,515: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-16 16:13:05,516: INFO: common: created directory at: artifacts]
+[2023-09-16 16:13:05,516: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-16 16:13:05,517: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2023-09-16 16:13:06,101: INFO: st_01_data_ingestion_pipeline: >>>>> stage Data Ingestion Stage completed <<<<< 
+
+x===============x]
